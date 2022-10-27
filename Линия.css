@@ -1,0 +1,57 @@
+.greenDiv {
+   width: 104px;
+   height: 50px;
+   background: #0bf803;
+   border-radius: 50%;
+   border: 1px solid #050000;
+   display: inline-block;
+   margin: 10px;
+}
+
+.whiteDiv {
+   width: 104px;
+   height: 50px;
+   background: #ffffff;
+   border-radius: 50%;
+   border: 1px solid #050000;
+   display: inline-block;
+   margin: 10px;
+}
+
+h2 {
+   color: rgb(0, 0, 0);
+   text-align: center;
+   margin: auto;
+   padding: 11px;
+}
+
+.btn {
+   text-align: center;
+   width: 95px;
+   margin: 5px;
+   color: black;
+}
+
+.btnGreen {
+   text-align: center;
+   width: 95px;
+   margin: 5px;
+   color: black;
+   background: #0bf803
+}
+
+.data {
+   margin-top: 50px;
+   margin-left: 10px;
+}
+
+.out {
+   border: 1px;
+   border-color: #050000
+}
+
+section {
+   border: 0px solid #050000;
+}
+
+;
